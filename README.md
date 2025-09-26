@@ -28,10 +28,17 @@ I am passionate about building secure, transformative cloud platforms, mentoring
 
 ## 🛠️ Skills & Expertise
 
-- **Cloud Platforms:** AWS, Azure, GCP
-- **Cloud Security:** Architecture, Compliance, Best Practices
-- **Technical Project Management:** Leading cross-functional teams, delivering robust solutions
-- **Cloud Solution Architecture:** Building scalable, resilient cloud systems
+- Cloud Architecture & Strategy (AWS, Azure, GCP)
+- Cloud Security Architecture & Solution Design
+- AI Security (Framework)
+- Hybrid & Multi-Cloud Deployments
+- Cloud Governance & Compliance (ISO 27001, NIST, CIS, PCIDSS, HIPAA)
+- Identity & Access Management (IAM, SSO, MFA, RBAC, Zero Trust)
+- DevSecOps & Secure CI/CD Pipelines (GitLab)
+- Microservices & Container Security (Kubernetes, Docker, AquaSec)
+- Cloud Security Posture Management (CSPM, SIEM, SOAR)
+- Cost Optimization & FinOps
+- Stakeholder Engagement & Architecture Governance
 
 ---
 
