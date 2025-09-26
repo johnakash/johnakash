@@ -5,9 +5,22 @@ Specializing in AWS, Azure, and GCP
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I'm a passionate Cloud Security and Solution Architect with extensive experience designing, building, and securing cloud environments on **AWS, Azure, and GCP**. I thrive on solving complex challenges, leading technical projects, and architecting secure, scalable solutions for enterprises.
+I am an accomplished Cloud Solutions & Security Architect with over 16 years of experience designing, securing, and scaling multi-cloud infrastructures across AWS, Azure, and GCP. Currently, I lead a high-performing cloud security team of 40 professionals, securing a complex, multi-cloud environment supporting 1,000+ applications for a major U.S. telecom client.
+
+My expertise spans:
+- Delivering secure, scalable solutions for enterprise cloud environments
+- Architecting tailored security frameworks to protect against external threats and malicious activities
+- Recruiting, training, and mentoring top-tier cloud security talent, accelerating their development into billable specialists
+- Engaging directly with clients and C-level stakeholders to drive business transformation, enable architecture governance, and ensure compliance
+- Designing self-service tools and automation frameworks that lower operational costs and empower users
+- Staying ahead of the curve by integrating emerging technologies and next-gen cloud security features to proactively mitigate risks
+- Leading innovation and adaptability in deploying new cloud and security technologies for both clients and internal teams
+- Building cohesive, high-performing teams by resolving bottlenecks and optimizing team dynamics
+- Actively contributing to talent acquisition, serving on hiring panels to identify and mentor niche cloud and cybersecurity professionals
+
+I am passionate about building secure, transformative cloud platforms, mentoring the next generation of cloud security talent, and innovating to stay ahead of evolving threats. Let’s connect to collaborate and drive impactful results in the cloud security space!
 
 ---
 
