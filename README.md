@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Akash John!
 
-**Cloud Security Architect & Cloud Solution Architect**  Specializing in public cloud platforms such as AWS, Azure, and GCP
+**Cloud Security Architect & Cloud Solution Architect**  
+Specializing in public cloud platforms such as AWS, Azure, and GCP
 
 <img src="https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="128"> <img src="https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="128"> <img src="https://images.credly.com/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png" width="128"> <img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="128"> <img src="https://images.credly.com/images/4ea0ec5c-6258-4c26-9282-6ed233c0c7ac/image.png" width="128">
 
